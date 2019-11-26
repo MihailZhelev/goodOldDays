@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+}
+nav{
+    display:inline-block;
+}
+img{
+    
+    width: 110px;
+    height: 70px;
+}
+a{
+    color:white;
+    text-decoration: none;
+    margin: 0;
+    float: left;
+    font-size: 22px;
+    padding-left: 150px;
+}
+a:hover{
+    color:rgb(255, 255, 153);
+}
+#table{
+    border-color:rgb(102, 51, 0);
+    margin-top: 15px;
+    
+}
+#description{
+    width: 300px;
+}
+.item{
+    width: 250px;
+    height: 300px;
+}
+#number{
+    width: 20px;
+
+}
+#description{
+    width: 600px;
+}
+#price{
+    width: 50px;
+}
+.button{
+    width: 70px;
+    background-color: rgb(102, 51, 0);
+    border:0px;
+    border-radius: 4px;
+}
+button:hover{
+    color:rgb(255, 255, 153);
+    background-color: rgb(153, 102, 51);
+}
+.item-name{
+    color:rgb(102, 51, 0);
+}
+.item-description{
+    font-size: 20px;
+    font-family: "italic";
+}
+.pic-3{
+    width: 300px;
+    height: 250px;
+}
+.collection{
+    width: 200px;
+    height: 220px;
+}
+footer {
+    height: 5%;     
+    color: rgb(153, 102, 0);
+}
+footer p {
+    display: inline;
+    margin-left:10px;        
+}
+footer div {
+    margin: 0 0 0px 10px ;
+}

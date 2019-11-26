@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+a{
+    color:white;
+    text-decoration: none;
+    margin: 0;
+    float: left;
+    font-size: 22px;
+    padding-left: 150px;
+}
+a:hover{
+    color:rgb(255, 255, 153);
+}
+header{
+    background-color: black;
+    
+}
+nav{
+    display:inline-block;
+    
+}
+img{
+    
+    width: 110px;
+    height: 70px;
+}
+
+#contact{
+    text-align: center;
+    
+}
+h1 {
+    color:rgb(153, 102, 0);
+    text-align: center;
+}
+div p{
+    text-align: center;
+}
+#fbPic{
+    margin-left:42%;
+    width: 30px;
+    height: 25px;
+    float: left;
+}
+#fbText{
+    margin-right: 540px;
+
+}
+#iPic{
+    margin-left:42%;
+    width: 30px;
+    height: 30px;
+    float: left;
+}
+#iText{
+    margin-right: 540px;
+
+}
+#working-hours{
+    text-align: center;
+    color:rgb(153, 102, 0);
+    margin-top:35px;	
+}
+#working{
+    text-align: center;
+}
+iframe{
+margin-left: 350px;
+}
+#social-media {
+    text-align: center;
+}
+footer {
+    height: 5%;     
+    color: rgb(153, 102, 0);
+}
+footer p {
+    display: inline;
+    margin-left:10px;        
+}
+footer div {
+    margin: 0 0 0px 10px ;
+}
+
